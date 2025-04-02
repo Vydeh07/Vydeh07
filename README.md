@@ -1,4 +1,4 @@
-  ############################################################################# Hi 👋, I'm Vydeh A Nambiar
+<h1 align="center">Hi 👋, I'm Vydeh A Nambiar</h1>
 
 - 🌱 I’m currently learning **PostgreSQL**
 - 💻 I have experience with **MERN Stack (React, Express, Node.js, MongoDB) & C++**
