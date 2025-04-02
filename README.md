@@ -21,10 +21,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎧 Now Playing:
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
-### 🎧 Now Playing:
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
+### 💡 Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 😆 Coding Meme:
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
 
