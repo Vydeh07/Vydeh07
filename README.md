@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vydeh A Nambiar</h1>
 
-- 🌱 I’m currently learning **PostgreSQL**
-- 💻 I have experience with **MERN Stack (React, Express, Node.js, MongoDB) & C++**
+- 🌱 I’m currently learning **PostgreSQL**  
+- 💻 I have experience with **MERN Stack (React, Express, Node.js, MongoDB) & C++**  
 - 💬 Ask me about **Web Development & C++**
 
-- ### 📊 GitHub Stats:
+---
+
+### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vydeh07&show_icons=true&theme=dark)
 
 ### 🚀 Contribution Graph:
@@ -12,6 +14,8 @@
 
 ### 🔥 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vydeh07&layout=compact&theme=dark)
+
+---
 
 ### ⚡ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,9 +25,4 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-
-### 💡 Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-### 😆 Coding Meme:
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
-
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vydeh07&theme=github_dark)
