@@ -36,6 +36,17 @@
 
 ---
 
+### 🎮 Hobbies & Creative Side
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gaming-FF4500?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Football-006400?style=for-the-badge&logo=fifa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketching-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -48,4 +59,12 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vydeh07/Vydeh07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🕹️ 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vydeh07/Vydeh07/output/github-profile-3d-contrib.svg" alt="3D Contribution Graph" />
 </p>
