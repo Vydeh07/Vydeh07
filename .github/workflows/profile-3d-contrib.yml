@@ -18,6 +18,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - name: Generate 3D Contribution Graph
         uses: akhileshns/3d-contrib@main
         with:
