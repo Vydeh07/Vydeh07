@@ -1,61 +1,70 @@
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&width=600&lines=Hey+%F0%9F%91%8B,+I'm+EggPuff;I+build+a+lot+of+things,+break+a+lot+more,+and+sometimes+fix+them+too." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B,+I'm+Vydeh;I+love+building,+breaking+%26+fixing+things!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">3rd year Electronics & Telecommunication | Full-stack MERN Developer 🚀</h3>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> 
+  3rd Year E&TC | Full-Stack Developer
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vydeh-nambiar-1a0a5228a/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Vydeh07">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=Zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serverless-FF3E00?style=for-the-badge&logo=serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,prisma" />
+  <br/>
+  <img src="https://img.shields.io/badge/Zod-121212?style=flat&logo=zod&logoColor=white" />
 </p>
 
 ---
 
-### 🎮 Hobbies & Creative Side
+## 🎨 Hobbies & Creative Side  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gaming-FF4500?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Football-006400?style=for-the-badge&logo=fifa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sketching-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gaming-FF4500?style=flat-square&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Football-006400?style=flat-square&logo=soccer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music-1DB954?style=flat-square&logo=spotify&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vydeh07&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vydeh07&show_icons=true&theme=radical&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vydeh07&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vydeh07&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vydeh07&theme=radical&no-frame=false&no-bg=true&margin-w=5&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vydeh07/Vydeh07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -63,7 +72,7 @@
 
 ---
 
-### 🕹️ 3D Contribution Graph
+## 🕹️ 3D Contribution Graph  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vydeh07/Vydeh07/output/github-profile-3d-contrib.svg" alt="3D Contribution Graph" />
