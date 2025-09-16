@@ -1,7 +1,7 @@
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B,+I'm+Vydeh;I+love+building,+breaking+%26+fixing+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=1200&lines=DELETE+FROM+problems+WHERE+type%3D'syntax+error';" />
 </p>
+
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> 
@@ -72,8 +72,4 @@
 
 ---
 
-## 🕹️ 3D Contribution Graph  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vydeh07/Vydeh07/output/github-profile-3d-contrib.svg" alt="3D Contribution Graph" />
-</p>
